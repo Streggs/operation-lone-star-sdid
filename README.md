@@ -61,11 +61,9 @@ disclosure thresholds for one or more industry/quarter combinations.This left 23
 
 ## Repository Structure
 
-- [`/report/`](./report/) — Full research report
+- [`/report/`](./report/) — Full research report (includes Technical Appendix and Results Tables)
 - [`/python/`](./python/) — Data acquisition, cleaning, and panel construction
 - [`/R/`](./R/) — SDiD estimation and robustness analyses
-- [`/documentation/`](./documentation/) — Technical appendix
-- [`/outputs/`](./outputs/) — Figures and results tables
 
 ## Research Report
 
