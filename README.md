@@ -13,6 +13,12 @@ Did Operation Lone Star affect local labor-market outcomes and business
 activity in Texas border counties relative to comparable border counties
 outside Texas?
 
+## Key Findings
+
+- Construction experienced the most severe downturn among all examined industries, showing significant declines across all three key metrics: total establishments, average weekly wages, and total employment.
+- In the tested border counties, a drop in total establishments occurred across most studied industries, with the exception of administration & support (NAICS 56) and wholesale trade (NAICS 42), neither of which reached statistical significance.
+- Beyond these findings, the remaining industries showed no statistically significant declines in either wages or employment.
+
 ## Data
 
 - U.S. Bureau of Labor Statistics Quarterly Census of Employment and Wages (QCEW)
@@ -22,7 +28,7 @@ outside Texas?
 
 ## Methodology
 
-Synthetic Difference-in-Differences (SDiD), following Arkhangelsky et al. (2021).
+Synthetic Difference-in-Differences (SDiD) was used to estimate changes in employment, wages, and establishments following OLS implementation. The analysis compares 23 Texas border counties with a synthetic control constructed from comparable counties in Arizona, California, and New Mexico.
 
 **Treatment counties:** 
 
@@ -50,13 +56,7 @@ disclosure thresholds for one or more industry/quarter combinations.This left 23
 
 **Donor pool:** 
 
-102 border counties in Arizona, California, and New Mexico.
-
-## Key Findings
-
-- Construction experienced the most severe downturn among all examined industries, showing significant declines across all three key metrics: total establishments, average weekly wages, and total employment.
-- In the tested border counties, a drop in total establishments occurred across most studied industries, with the exception of administration & support (NAICS 56) and wholesale trade (NAICS 42), neither of which reached statistical significance.
-- Beyond these findings, the remaining industries showed no statistically significant declines in either wages or employment.
+99 border counties in Arizona, California, and New Mexico.
 
 ## Repository Structure
 
