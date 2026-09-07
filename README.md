@@ -26,13 +26,12 @@ Synthetic Difference-in-Differences (SDiD), following Arkhangelsky et al. (2021)
 
 **Treatment counties:** 
 
-All 32 Texas border counties as defined by the Texas
-Department of State Health Services (DSHS). Of these, 9 counties were
+All 32 Texas border counties as defined by the La Paz Agreement, 1983. Of these, 9 counties were
 excluded from the final analytical panel due to data suppression in the
 BLS QCEW source data. This was caused by insufficient establishment counts to meet BLS
 disclosure thresholds for one or more industry/quarter combinations.This left 23 counties in the final treatment group, as described below.
 
-**Full list of 32 DSHS-defined border counties (FIPS)** 
+**Full list of La Paz Agreement defined counties (FIPS)** 
 
 48043, 48047, 48061, 48105, 48109, 48127, 48131, 48137, 48141, 48163,
 48215, 48229, 48243, 48247, 48261, 48271, 48283, 48311, 48323, 48371,
