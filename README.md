@@ -66,7 +66,7 @@ disclosure thresholds for one or more industry/quarter combinations.This left 23
 
 ## Research Report
 
-[Read the full research report](report/Operation_Lone_Star_Impact_Analysis.pdf.)
+[Read the full research report](report/Operation%20Lone%20Star%20Impact%20Analysis.pdf)
 
 ## Reproducibility
 
