@@ -16,7 +16,7 @@ outside Texas?
 ## Key Findings
 
 - Construction experienced the most severe downturn among all examined industries, showing significant declines across all three key metrics: total establishments, average weekly wages, and total employment.
-- In the tested border counties, a drop in total establishments occurred across most studied industries, with the exception of administration & support (NAICS 56) and wholesale trade (NAICS 42), neither of which reached statistical significance.
+- In the tested border counties, a drop in total establishments occurred across most studied industries, with the exception of Administrative & Support (NAICS 56) and Wholesale Trade (NAICS 42), neither of which reached statistical significance.
 - Beyond these findings, the remaining industries showed no statistically significant declines in either wages or employment.
 
 ## Data
@@ -88,7 +88,7 @@ folders will be created).
 
 If you see an error like `cannot open file 'sdid_exports_employment/
 sdid_config.csv'`, your R kernel's working directory doesn't match where
-Python wrote its output — check with `getwd()` in R and `os.getcwd()` in
+Python wrote its output. Check with `getwd()` in R and `os.getcwd()` in
 Python; they should print the same path.
 
 ### Environment / versions used
